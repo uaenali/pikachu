@@ -1,0 +1,23 @@
+{
+  "name": "pikachu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uaenali/pikachu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uaenali/pikachu/issues"
+  },
+  "homepage": "https://github.com/uaenali/pikachu#readme",
+  "devDependencies": {
+    "vite": "^3.1.8"
+  }
+}

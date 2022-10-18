@@ -234,5 +234,5 @@ const string = `
 /*
  * 好了，这只皮卡丘送给你
  */
-`
-export default string
+`;
+export default string;
